@@ -1,0 +1,13 @@
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\bin\Debug\netcoreapp3.1\DeckOfCardspgrm.exe
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\bin\Debug\netcoreapp3.1\DeckOfCardspgrm.deps.json
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\bin\Debug\netcoreapp3.1\DeckOfCardspgrm.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\bin\Debug\netcoreapp3.1\DeckOfCardspgrm.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\bin\Debug\netcoreapp3.1\DeckOfCardspgrm.dll
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\bin\Debug\netcoreapp3.1\DeckOfCardspgrm.pdb
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\obj\Debug\netcoreapp3.1\DeckOfCardspgrm.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\obj\Debug\netcoreapp3.1\DeckOfCardspgrm.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\obj\Debug\netcoreapp3.1\DeckOfCardspgrm.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\obj\Debug\netcoreapp3.1\DeckOfCardspgrm.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\obj\Debug\netcoreapp3.1\DeckOfCardspgrm.dll
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\obj\Debug\netcoreapp3.1\DeckOfCardspgrm.pdb
+C:\Users\Sahithi.P\source\repos\DeckOfCardspgrm\DeckOfCardspgrm\obj\Debug\netcoreapp3.1\DeckOfCardspgrm.genruntimeconfig.cache
